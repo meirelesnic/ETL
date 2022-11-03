@@ -1,0 +1,5 @@
+[
+  "src/drivers/html_collector_test.py::test_collect_essencial_information",
+  "src/drivers/http_requester_test.py::test_request_from_page",
+  "src/stages/extracts/extract_html_test.py::test_extract"
+]
